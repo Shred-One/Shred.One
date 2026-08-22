@@ -14,21 +14,21 @@ Start your first Shred.one destination and a 24-hour service cycle.
     <strong>Sign in to Shred.one</strong>
     <p>Enter your email and open the secure single-use link.</p>
     <button class="docs-image-trigger" type="button" data-docs-image-trigger aria-label="View larger: Shred.one Sign in screen">
-      <img src="/docs/quick-start/sign-in.png" alt="Shred.one sign-in form with an email field and Send magic link button" width="960" height="720" loading="lazy" />
+      <img src="https://shred.one/docs/quick-start/sign-in.png" alt="Shred.one sign-in form with an email field and Send magic link button" width="960" height="720" loading="lazy" />
     </button>
   </li>
   <li>
     <strong>Fund your account</strong>
     <p>Copy the fixed deposit address and send native USDC on Solana mainnet.</p>
     <button class="docs-image-trigger" type="button" data-docs-image-trigger aria-label="View larger: Shred.one Account screen">
-      <img src="/docs/quick-start/fund-account.png" alt="Shred.one Account screen showing the USDC deposit address and QR code" width="960" height="720" loading="lazy" />
+      <img src="https://shred.one/docs/quick-start/fund-account.png" alt="Shred.one Account screen showing the USDC deposit address and QR code" width="960" height="720" loading="lazy" />
     </button>
   </li>
   <li>
     <strong>Add and activate</strong>
     <p>Enter your public IPv4 and UDP port, then Subscribe and wait for Active.</p>
     <button class="docs-image-trigger" type="button" data-docs-image-trigger aria-label="View larger: Shred.one Services screen">
-      <img src="/docs/quick-start/add-destination.png" alt="Shred.one Services screen showing the region, public IPv4 and UDP port fields" width="960" height="720" loading="lazy" />
+      <img src="https://shred.one/docs/quick-start/add-destination.png" alt="Shred.one Services screen showing the region, public IPv4 and UDP port fields" width="960" height="720" loading="lazy" />
     </button>
   </li>
 </ol>
@@ -53,6 +53,6 @@ Active confirms that Shred.one applied the destination. It does not prove that t
 
 Your Shred.one destination must be the public address and UDP port of the process that should receive packets. Continue with the matching guide:
 
-- [Solana validator TVU](/docs/solana-validator/)
-- [Jito ShredStream proxy, including forward-only mode](/docs/jito-shredstream/)
-- [Early transaction decoding over local gRPC](/docs/early-transaction-decoding/)
+- [Solana validator TVU](solana-validator.md)
+- [Jito ShredStream proxy, including forward-only mode](jito-shredstream.md)
+- [Early transaction decoding over local gRPC](early-transaction-decoding.md)

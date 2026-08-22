@@ -11,9 +11,9 @@ Shred.one delivers raw Solana Data Shreds and Coding Shreds to one public IPv4 U
 
 | Goal | Shred.one destination | Continue with |
 | --- | --- | --- |
-| Give a Solana validator an additional shred path | The validator host and its actual TVU UDP port | [Solana validator](/docs/solana-validator/) |
-| Fan Shred.one packets out to a validator or another local receiver | Jito ShredStream proxy source port, commonly `20000/udp` | [Jito ShredStream proxy](/docs/jito-shredstream/) |
-| Decode entries and transactions before a full block is assembled | Jito ShredStream proxy source port with its gRPC service enabled | [Early transaction decoding](/docs/early-transaction-decoding/) |
+| Give a Solana validator an additional shred path | The validator host and its actual TVU UDP port | [Solana validator](solana-validator.md) |
+| Fan Shred.one packets out to a validator or another local receiver | Jito ShredStream proxy source port, commonly `20000/udp` | [Jito ShredStream proxy](jito-shredstream.md) |
+| Decode entries and transactions before a full block is assembled | Jito ShredStream proxy source port with its gRPC service enabled | [Early transaction decoding](early-transaction-decoding.md) |
 
 <div class="docs-path"><code>Shred.one</code><span>UDP -&gt;</span><code>public IPv4:port</code><span>-&gt;</span><code>your receiver</code></div>
 

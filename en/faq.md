@@ -9,11 +9,11 @@ updated: 2026-08-16
 
 ## Is the validator TVU port always 8000?
 
-No. Discover the TVU port used by your validator instead of assuming a fixed value. The official Jito guide provides a discovery script and its examples commonly use `8001`, but your deployment can differ. See [Solana validator](/docs/solana-validator/).
+No. Discover the TVU port used by your validator instead of assuming a fixed value. The official Jito guide provides a discovery script and its examples commonly use `8001`, but your deployment can differ. See [Solana validator](solana-validator.md).
 
 ## Can I use the Jito proxy without a Jito key?
 
-Yes, in `forward-only` mode. That mode does not request Jito shreds; it receives Shred.one UDP packets and forwards them to the configured local destinations. See [Jito ShredStream proxy](/docs/jito-shredstream/).
+Yes, in `forward-only` mode. That mode does not request Jito shreds; it receives Shred.one UDP packets and forwards them to the configured local destinations. See [Jito ShredStream proxy](jito-shredstream.md).
 
 ## Is the hosted Jito ShredStream still a safe long-term dependency?
 
@@ -21,7 +21,7 @@ No. Jito announced a shutdown date of 05 Sep 2026. Check the [current official n
 
 ## Can I receive decoded transactions through gRPC?
 
-Yes. Shred.one delivers raw Solana shreds over UDP, and you can run the Jito proxy locally with `--grpc-service-port` to reconstruct entries. Its `ShredstreamProxy.SubscribeEntries` RPC streams `Entry` protobuf messages containing a slot and serialized `Vec<Entry>` bytes; transactions are contained inside the decoded Solana entries. Early decoding does not mean a transaction is `confirmed` or `finalized`. See [Early transaction decoding](/docs/early-transaction-decoding/).
+Yes. Shred.one delivers raw Solana shreds over UDP, and you can run the Jito proxy locally with `--grpc-service-port` to reconstruct entries. Its `ShredstreamProxy.SubscribeEntries` RPC streams `Entry` protobuf messages containing a slot and serialized `Vec<Entry>` bytes; transactions are contained inside the decoded Solana entries. Early decoding does not mean a transaction is `confirmed` or `finalized`. See [Early transaction decoding](early-transaction-decoding.md).
 
 ## Why can I receive duplicate or out-of-order packets?
 

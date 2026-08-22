@@ -37,7 +37,7 @@ RUST_LOG=info ./target/release/jito-shredstream-proxy forward-only \
   --dest-ip-ports 127.0.0.1:8001
 ```
 
-Replace `127.0.0.1:8001` with the real local receiver. For a validator, [discover its TVU port](/docs/solana-validator/) first.
+Replace `127.0.0.1:8001` with the real local receiver. For a validator, [discover its TVU port](solana-validator.md) first.
 
 Then set the Shred.one destination to:
 
