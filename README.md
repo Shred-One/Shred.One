@@ -100,3 +100,5 @@ Benchmark Shred.one with your own infrastructure.
 Best-effort UDP — no replay or resend.
 
 Need help? Email [support@shred.one](mailto:support@shred.one).
+
+[Join the Shred.one community on Discord](https://discord.gg/M8dS6HSXYk).
