@@ -59,7 +59,7 @@ Observed in the same Amsterdam comparison setup. Clean, authenticated shreds wit
 | Plan | Price | Availability |
 | --- | ---: | --- |
 | Regular Pricing | 15 USDC / day | Standard price |
-| Founding Pricing | **6.5 USDC / day** | Currently available until Sep 30, 2026 at 23:59 UTC |
+| Founding Pricing | **6.5 USDC / day** | Currently available until Oct 30, 2026 at 23:59 UTC |
 
 Benchmark once or keep it running. Make one native USDC payment of at least **195 USDC** before the cutoff to keep this Founding Pricing forever. Limited availability.
 
@@ -73,7 +73,7 @@ Yes. During Founding Pricing, 6.5 USDC funds one service for one 24-hour cycle, 
 
 ### Can one 195 USDC payment keep my Founding price?
 
-Yes. Make one native USDC payment of at least 195 USDC by Sep 30, 2026 at 23:59 UTC. The full payment is credited to your account balance; it is not an extra fee. Your account then keeps the 6.5 USDC / day Founding Pricing forever across every current and future service and region, even if subscriptions stop, expire, or are interrupted. Multiple smaller payments are not combined for qualification.
+Yes. Make one native USDC payment of at least 195 USDC by Oct 30, 2026 at 23:59 UTC. The full payment is credited to your account balance; it is not an extra fee. Your account then keeps the 6.5 USDC / day Founding Pricing forever across every current and future service and region, even if subscriptions stop, expire, or are interrupted. Multiple smaller payments are not combined for qualification.
 
 ### Can I use Shred.one with Jito ShredStream?
 

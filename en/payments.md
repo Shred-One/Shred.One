@@ -2,7 +2,7 @@
 title: Payments
 description: Fund your Shred.one account with native USDC on Solana mainnet.
 order: 3
-updated: 2026-08-21
+updated: 2026-09-30
 ---
 
 # Payments
@@ -19,4 +19,4 @@ Finalization can take time. A payment only credits your balance; it never create
 
 ## Founding qualification
 
-Founding Pricing is 6.5 USDC / day and is available until Sep 30, 2026 at 23:59 UTC. Make one native USDC payment of at least 195.00 USDC by that deadline to qualify. The full payment is credited to your account balance; it is not an extra fee. Founding Pricing is then permanent for your account and applies to every current and future service and region, even if subscriptions stop, expire, or are interrupted. Multiple smaller payments are not combined for qualification. Limited availability.
+Founding Pricing is 6.5 USDC / day and is available until Oct 30, 2026 at 23:59 UTC. Make one native USDC payment of at least 195.00 USDC by that deadline to qualify. The full payment is credited to your account balance; it is not an extra fee. Founding Pricing is then permanent for your account and applies to every current and future service and region, even if subscriptions stop, expire, or are interrupted. Multiple smaller payments are not combined for qualification. Limited availability.
