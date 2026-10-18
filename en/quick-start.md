@@ -43,7 +43,7 @@ Open **Account** and copy the fixed deposit address. Send only native USDC on So
 
 ## 3. Add and activate a destination
 
-Open **Services**, select Amsterdam and enter a public IPv4 address with a UDP port from 1 to 65535. Confirm that your receiver and firewall are ready before continuing, then choose **Add destination**.
+Open **Services**, select an available region (Amsterdam or Frankfurt) and enter a public IPv4 address with a UDP port from 1 to 65535. Confirm that your receiver and firewall are ready before continuing, then choose **Add destination**.
 
 Choose **Subscribe**. Shred.one checks your balance and available capacity before debit. Wait for the service to become **Active** before expecting packets.
 

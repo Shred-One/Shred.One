@@ -8,13 +8,13 @@ Low-latency raw Solana shreds delivered directly to your UDP endpoint.
 
 ## Region network
 
-Amsterdam is the first open region. More regions are coming later.
+Amsterdam & Frankfurt available now. More regions are coming later.
 
 | Region | Availability |
 | --- | --- |
 | Amsterdam | Available now |
 | London | Coming later |
-| Frankfurt | Coming later |
+| Frankfurt | Available now |
 | New York | Coming later |
 
 ## Benchmark Shred.one in just a few minutes.
@@ -56,24 +56,21 @@ Observed in the same Amsterdam comparison setup. Clean, authenticated shreds wit
 
 ## Pricing
 
-| Plan | Price | Availability |
-| --- | ---: | --- |
-| Regular Pricing | 15 USDC / day | Standard price |
-| Founding Pricing | **6.5 USDC / day** | Currently available until Oct 30, 2026 at 23:59 UTC |
+Check [current pricing and Founding enrollment status](https://shred.one/#pricing-title) before funding your account. Rates and the qualifying single-payment amount are confirmed by the website at the time you check. If current pricing cannot be confirmed, do not assume new Founding enrollment is open.
 
-Benchmark once or keep it running. Make one native USDC payment of at least **195 USDC** before the cutoff to keep this Founding Pricing forever. Limited availability.
+The rollout milestone for the Founding program is full deployment of all four regions. Only a qualifying single payment recorded while enrollment is open grants new Founding status. Existing Founding accounts keep their rate after enrollment closes.
 
-Available now: **Amsterdam**.
+Available now: **Amsterdam and Frankfurt**.
 
 ## Know what you are benchmarking
 
-### Can I start benchmarking with 6.5 USDC?
+### How much does a day of service cost?
 
-Yes. During Founding Pricing, 6.5 USDC funds one service for one 24-hour cycle, so you can benchmark once or keep the service running.
+Check current pricing above before funding your account. One service is billed for one 24-hour cycle, so you can benchmark once or keep the service running.
 
-### Can one 195 USDC payment keep my Founding price?
+### How do I keep a Founding rate?
 
-Yes. Make one native USDC payment of at least 195 USDC by Oct 30, 2026 at 23:59 UTC. The full payment is credited to your account balance; it is not an extra fee. Your account then keeps the 6.5 USDC / day Founding Pricing forever across every current and future service and region, even if subscriptions stop, expire, or are interrupted. Multiple smaller payments are not combined for qualification.
+Only a qualifying single payment recorded while Founding enrollment is open grants new Founding status. Check current enrollment status and the qualification amount above before paying. The full payment is credited to your account balance; it is not an extra fee. Qualified accounts keep their Founding rate forever across every current and future service and region, even if subscriptions stop, expire, or are interrupted. Multiple smaller payments are not combined for qualification.
 
 ### Can I use Shred.one with Jito ShredStream?
 
